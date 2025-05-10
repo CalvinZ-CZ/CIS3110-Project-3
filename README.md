@@ -18,3 +18,5 @@
 - Run the application 
 
   `ng serve`
+
+  [![PROJECT THREE VIDEO](http://img.youtube.com/vi/OpO9Z2QVK-0/0.jpg)](https://www.youtube.com/watch?v=OpO9Z2QVK-0)
